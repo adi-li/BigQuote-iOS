@@ -10,11 +10,11 @@ Here is an example:
 ### How to use?
 
 #### Authors View
-It lists all input quotes' authors.
+It lists all input quotes' authors. You can create new quote by tapping the `+` button.
 ![Authors View](./Screenshots/authors.png)
 
 #### Hashtags View
-It lists all input quotes' hashtags.
+It lists all input quotes' hashtags. You can create new quote by tapping the `+` button.
 ![Hashtags View](./Screenshots/hashtags.png)
 
 #### Quotes List View
@@ -27,6 +27,15 @@ It shows the selected quote.
 
 #### Quote Generator View
 It provides some different tools for you to generate quote
+![Quote Generator](./Screenshots/new-quote-1.png)
+
+* Quote View
+	- It allows you to directly input the quote and author.
+	- Tap outside the quote view to dismiss the keyboard while editing quote text view.
+	- Tap `return` to dismiss the keyboard while editing author name.
+
+* Hashtags Input Field
+	- It allows you to enter the hashtags related to this quote. Multiple tags can use comma to separate.
 
 * Random quote fetcher
 	- It gets random quote using API from [andrux](https://market.mashape.com/andruxnet/random-famous-quotes)
@@ -34,9 +43,11 @@ It provides some different tools for you to generate quote
 * Image search
 	- It allows you to select image from your album or search from web by using [Custom Search Engine](https://developers.google.com/custom-search/)
 
-* Background color picker
+* Background color & Text color picker
+	![Color Picker](./Screenshots/color-picker.png)
+
 * Font picker
-* Text color picker
+ 	![Font Picker](./Screenshots/font-picker.png)
 
 
 ### How to build?
