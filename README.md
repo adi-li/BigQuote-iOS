@@ -1,31 +1,31 @@
-## Big Quote
+# Big Quote
 
-### What is this?
+## What is this?
 
 It is a big quote generator.
 Simply enter your favourite quote and the author name, pick your favourite style, and a new quote image is generated.
 Here is an example:
 ![Quote](./Screenshots/quote.JPG)
 
-### How to use?
+## How to use?
 
-#### Authors View
+### Authors View
 It lists all input quotes' authors. You can create new quote by tapping the `+` button.
 ![Authors View](./Screenshots/authors.png)
 
-#### Hashtags View
+### Hashtags View
 It lists all input quotes' hashtags. You can create new quote by tapping the `+` button.
 ![Hashtags View](./Screenshots/hashtags.png)
 
-#### Quotes List View
+### Quotes List View
 It lists the filtered quotes, which are filtered by author's name or hashtag.
 ![Quotes List View](./Screenshots/quotes-list.png)
 
-#### Quote Detail View
+### Quote Detail View
 It shows the selected quote.
 ![Quotes List View](./Screenshots/quote-detail.png)
 
-#### Quote Generator View
+### Quote Generator View
 It provides some different tools for you to generate quote
 ![Quote Generator](./Screenshots/new-quote-1.png)
 
@@ -51,7 +51,7 @@ It provides some different tools for you to generate quote
 ![Font Picker](./Screenshots/font-picker.png)
 
 
-### How to build?
+## How to build?
 
 1. Get marketplace API key from [mashape](https://market.mashape.com/andruxnet/random-famous-quotes) by registration.
 1. Get Google API key from [Google Develpoer Console](https://console.developers.google.com/home/dashboard?project=api-project-174904668213&pli=1), [Reference](https://developers.google.com/identity/sign-in/web/devconsole-project)
@@ -61,7 +61,7 @@ It provides some different tools for you to generate quote
 1. Build the project and enjoy the app. (iPhone 6 / 6s simulator is recommended.)
 
 
-### Image Lisence
+## Image Lisence
 
 The icon images used in this app are downloaded from [thenounproject.com](https://thenounproject.com),
 please *DO NOT* redistribute them.
