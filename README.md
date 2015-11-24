@@ -26,9 +26,7 @@ It shows the selected quote.
 ![Quotes List View](./Screenshots/quote-detail.png)
 
 #### Quote Generator View
-It provides some different tools for you to generate quote.
-Tap `Save` to save the edited quote, and `Cancel` to exit.
-The style (font & color) you chose this time will be saved as the initial state next time.
+It provides some different tools for you to generate quote
 ![Quote Generator](./Screenshots/new-quote-1.png)
 
 * Quote View
@@ -49,7 +47,8 @@ The style (font & color) you chose this time will be saved as the initial state 
 	![Color Picker](./Screenshots/color-picker.png)
 
 * Font picker
-	![Font Picker](./Screenshots/font-picker.png)
+ 
+![Font Picker](./Screenshots/font-picker.png)
 
 
 ### How to build?
