@@ -1,0 +1,19 @@
+//
+//  Config.swift
+//  BigQuote
+//
+//  Created by Adi Li on 21/11/2015.
+//  Copyright © 2015 Adi Li. All rights reserved.
+//
+
+import Foundation
+
+
+struct Config {
+    // Ref: https://market.mashape.com/andruxnet/random-famous-quotes
+    static let MarketplaceAPIKey = "Please replace your API key here"
+
+    // Ref: https://developers.google.com/custom-search/
+    static let GoogleAPIKey = "Please replace your API key here"
+    static let CustomSearchEngineID = "Please replace your engine ID here"
+}

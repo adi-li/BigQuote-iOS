@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>hexCode</key>
+		<string>0 0 0 1</string>
+		<key>name</key>
+		<string>Black</string>
+	</dict>
+    <dict>
+        <key>hexCode</key>
+        <string>1 1 1 1</string>
+        <key>name</key>
+        <string>White</string>
+    </dict>
+    <dict>
+        <key>hexCode</key>
+        <string>1 0 0 1</string>
+        <key>name</key>
+        <string>Red</string>
+    </dict>
+    <dict>
+        <key>hexCode</key>
+        <string>0 1 0 1</string>
+        <key>name</key>
+        <string>Green</string>
+    </dict>
+    <dict>
+        <key>hexCode</key>
+        <string>0 0 1 1</string>
+        <key>name</key>
+        <string>Blue</string>
+    </dict>
+    <dict>
+        <key>hexCode</key>
+        <string>1 1 0 1</string>
+        <key>name</key>
+        <string>Yellow</string>
+    </dict>
+    <dict>
+        <key>hexCode</key>
+        <string>1 0 1 1</string>
+        <key>name</key>
+        <string>Magenta</string>
+    </dict>
+    <dict>
+        <key>hexCode</key>
+        <string>0 1 1 1</string>
+        <key>name</key>
+        <string>Cyan</string>
+    </dict>
+</array>
+</plist>
